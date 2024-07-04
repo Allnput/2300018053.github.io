@@ -1,2 +1,2 @@
-# B053chyntya
-KODE SOAL B
+# 053chyntya
+KODE SOAL C
